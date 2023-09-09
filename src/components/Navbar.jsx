@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { NavLink } from "react-router-dom";
-import img from '../assets/logo.jpg'
+import img from '../assets/w1.png'
 
 const Navbar = () => {
     const [show, setShow] = useState(false);
