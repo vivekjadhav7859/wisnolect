@@ -141,7 +141,7 @@ header {
 
 .main-hero-container .typewriter {
   font-size: 4.5rem;
-  color: crimson;
+  color: var(--main-text-color);
   font-weight: bolder;
 }
 .main-hero-container .typewriter h3 {
